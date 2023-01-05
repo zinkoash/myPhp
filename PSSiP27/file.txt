@@ -1,0 +1,9 @@
+Array
+(
+    [fio] => ljhg
+    [login] => hbjnkml
+    [password] => jnhbgvfc
+    [age] => cvgbhnjk
+    [pol] => lkjhgvcx
+    [email] => cvgbhnjmkl@lkjhb.rty
+)
